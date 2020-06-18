@@ -12,7 +12,7 @@
 		<jackson.annotation.version>2.9.9</jackson.annotation.version>
 		<jackson.core.version>2.9.9</jackson.core.version>
 		<jackson.datatype.version>2.9.9</jackson.datatype.version>
-		<jackson.databind.version>2.9.4</jackson.databind.version>
+		<jackson.databind.version>2.10.0.pr1</jackson.databind.version>
 		<jackson.dataformat.xml.version>2.9.0</jackson.dataformat.xml.version>
 		<commons.codec.version>1.9</commons.codec.version>
 		<commons.io.version>2.6</commons.io.version>
